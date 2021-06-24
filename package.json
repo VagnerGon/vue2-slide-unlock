@@ -1,7 +1,7 @@
 {
   "name": "vue2-slide-unlock",
-  "version": "0.2.3",
-  "private": true,
+  "version": "0.2.4",
+  "private": false,
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build --target lib --name vue-slide-unlock src/lib.js",
@@ -12,6 +12,10 @@
     "type": "git",
     "url": "git+https://github.com/vagnerGon/vue2-slide-unlock.git"
   },
+  "bugs": {
+    "url": "https://github.com/joseph2/vue-slide-unlock/issues"
+  },
+  "homepage": "https://joseph2.github.io/vue-slide-unlock/",
   "dependencies": {
     "core-js": "^3.6.5",
     "easy-ease": "^1.0.9",

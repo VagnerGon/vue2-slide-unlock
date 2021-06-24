@@ -227,9 +227,6 @@ export default {
             this.Progress.width = 0,
             this.Text.opacity = 1
         }
-    },
-    mounted () {
-        console.log('sou eu mesmo')
     }
 }
 </script>

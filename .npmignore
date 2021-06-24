@@ -1,0 +1,5 @@
+src/**/*.*
+public/**/*.*
+babel.config.js
+vue.config.js
+*.tgz
